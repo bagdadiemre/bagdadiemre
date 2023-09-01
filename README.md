@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre Bağdadioğlu</h1> 
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagdadiemre&show_icons=true&theme=dark&locale=en&layout=compact" alt="bagdadiemre" /></p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <!-- Frontend Development -->
 <div align="left">
@@ -91,7 +92,7 @@
 <br/>
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagdadiemre&show_icons=true&theme=dark&locale=en&layout=compact" alt="bagdadiemre" /></p>
+
 
 
 
