@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Bağdadioğlu</h1> 
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <!-- Backend Development -->
 <div align="center">
