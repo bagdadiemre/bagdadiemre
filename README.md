@@ -4,7 +4,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <!-- Frontend Development -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <h4>Frontend Development</h4>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
