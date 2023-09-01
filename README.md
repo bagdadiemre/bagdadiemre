@@ -3,14 +3,6 @@
 
 <br/>
 
-<div align="center"  style="display:inline-block">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/emrebagdadi̇oglu" target="blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrebagdadi̇oglu" height="30" width="40" />
-  </a>
-</div>
-<br/>
-
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
