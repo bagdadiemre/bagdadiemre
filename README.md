@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Backend Development -->
-<div align="left">
+<div align="center">
   <h4>Backend Development</h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -18,7 +18,7 @@
 </div>
 
 <!-- Frontend Development -->
-<div align="left">
+<div align="center">
   <h4>Frontend Development</h4>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -30,7 +30,7 @@
 </div>
 
 <!-- Mobile App Development -->
-<div align="left">
+<div align="center">
   <h4>Mobile App Development</h4>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
@@ -42,7 +42,7 @@
 </div>
 
 <!-- Web Development -->
-<div align="left">
+<div align="center">
   <h4>Web Development</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -54,7 +54,7 @@
 </div>
 
 <!-- Database and Backend Tools -->
-<div align="left">
+<div align="center">
   <h4>Database and Backend Tools</h4>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -66,7 +66,7 @@
 </div>
 
 <!-- Other Tools and Frameworks -->
-<div align="left">
+<div align="center">
   <h4>Other Tools and Frameworks</h4>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
