@@ -66,36 +66,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagdadiemre&show_icons=true&locale=en&layout=compact" alt="bagdadiemre" /></p>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.card {
-  background-color: white;
-  padding: 10px;
-  border-radius: 10px;
-  margin: 10px;
-  display: inline-block;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
 
-.card img {
-  width: 40px;
-  height: 40px;
-}
-
-.card-text {
-  text-align: center;
-}
-
-</style>
-</head>
-<body>
-
-<div class="card">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android">
-  <p class="card-text">Android</p>
-</div>
-
-</body>
-</html>
