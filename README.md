@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre Bağdadioğlu</h1> 
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
 
-<br/>
-
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
