@@ -22,10 +22,7 @@
   <!-- Add more frontend badges here -->
 </div>
 
-
-
 <!-- Backend Development -->
-<div align="left">
   <h4>Backend Development</h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -36,10 +33,8 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   </a>
-</div>
 
 <!-- Mobile App Development -->
-<div align="left">
   <h4>Mobile App Development</h4>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
@@ -53,11 +48,8 @@
    <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   </a>
-  <!-- Add more mobile app development badges here -->
-</div>
-
+  
 <!-- Web Development -->
-<div align="left">
   <h4>Web Development</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -66,10 +58,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
   <!-- Add more web development badges here -->
-</div>
 
 <!-- Database and Backend Tools -->
-<div align="left">
   <h4>Database and Backend Tools</h4>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -77,17 +67,14 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   </a>
-  <!-- Add more database and backend tools badges here -->
-</div>
+  
 
 <!-- Other Tools and Frameworks -->
-<div align="left">
   <h4>Other Tools and Frameworks</h4>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
   </a>
-  <!-- Add more other tools and frameworks badges here -->
-</div>
+  
 
 <br/>
 <br/>
