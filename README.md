@@ -1,5 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Emre Bağdadioğlu</h1> <p align="center"><a href="https://linkedin.com/in/emrebagdadi̇oglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrebagdadi̇oglu" height="30" width="40" /></a></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <h1 style="margin: 0;">Hi 👋, I'm Emre Bağdadioğlu</h1>
+  <a href="https://linkedin.com/in/emrebagdadi̇oglu" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrebagdadi̇oglu" height="30" width="40" />
+  </a>
+</div>
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
 
 <br/>
