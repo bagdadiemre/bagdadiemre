@@ -91,65 +91,53 @@
 
 <br/>
 <br/>
-<h3 align="left">Languages and Tools:</h3>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <!-- Left Column -->
+  <div style="flex: 1; margin-right: 20px;">
+    <h3>Languages and Tools:</h3>
 
-  <!-- Frontend Development -->
-  <div style="flex-basis: 48%;">
-    <h4>Frontend Development</h4>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-bottom: 10px;">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    </a>
-    <!-- Add more frontend badges here -->
+    <!-- Frontend Development -->
+    <div>
+      <h4>Frontend Development</h4>
+      <!-- Add your frontend badges here -->
+    </div>
+
+    <!-- Backend Development -->
+    <div>
+      <h4>Backend Development</h4>
+      <!-- Add your backend badges here -->
+    </div>
+
+    <!-- Mobile App Development -->
+    <div>
+      <h4>Mobile App Development</h4>
+      <!-- Add your mobile app development badges here -->
+    </div>
   </div>
 
-  <!-- Backend Development -->
-  <div style="flex-basis: 48%;">
-    <h4>Backend Development</h4>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    </a>
-    <!-- Add more backend badges here -->
-  </div>
+  <!-- Right Column -->
+  <div style="flex: 1;">
+    <!-- Web Development -->
+    <div>
+      <h4>Web Development</h4>
+      <!-- Add your web development badges here -->
+    </div>
 
-  <!-- Mobile App Development -->
-  <div style="flex-basis: 48%;">
-    <h4>Mobile App Development</h4>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-    </a>
-    <!-- Add more mobile app development badges here -->
-  </div>
+    <!-- Database and Backend Tools -->
+    <div>
+      <h4>Database and Backend Tools</h4>
+      <!-- Add your database and backend tools badges here -->
+    </div>
 
-  <!-- Web Development -->
-  <div style="flex-basis: 48%;">
-    <h4>Web Development</h4>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    </a>
-    <!-- Add more web development badges here -->
+    <!-- Other Tools and Frameworks -->
+    <div>
+      <h4>Other Tools and Frameworks</h4>
+      <!-- Add your other tools and frameworks badges here -->
+    </div>
   </div>
-
-  <!-- Database and Backend Tools -->
-  <div style="flex-basis: 48%;">
-    <h4>Database and Backend Tools</h4>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    </a>
-    <!-- Add more database and backend tools badges here -->
-  </div>
-
-  <!-- Other Tools and Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h4>Other Tools and Frameworks</h4>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
-    </a>
-    <!-- Add more other tools and frameworks badges here -->
-  </div>
-
 </div>
+
 
 
 <br/>
