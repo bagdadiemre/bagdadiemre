@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre Bağdadioğlu</h1> 
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
 <div align="center">
-[![Mail Badge](https://img.shields.io/badge/bagdadiemre@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
+
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
   </div>
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagdadiemre&show_icons=true&theme=dark&locale=en&layout=compact" alt="bagdadiemre" /></p>
