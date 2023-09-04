@@ -2,19 +2,10 @@
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
 
 <div align="center">
-  [![](https://img.shields.io/badge/emrebagdadioglu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
-  [![Mail Badge](https://img.shields.io/badge/bagdadiemre@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
+[![Mail Badge](https://img.shields.io/badge/bagdadiemre@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
 </div>
 
-<div align="center">
-    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-emrebagdadioglu-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
-    [![Mail Badge](https://img.shields.io/badge/Email-bagdadiemre%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
-</div>
-
-<div align="center">
-[![](https://img.shields.io/badge/emrebagdadioglu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
-[![Mail Badge](	https://img.shields.io/badge/bagdadiemre@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
-</div>
 
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagdadiemre&show_icons=true&theme=dark&locale=en&layout=compact" alt="bagdadiemre" /></p>
