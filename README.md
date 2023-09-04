@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
 <div align="center">
   
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadigolu/)
+[![](https://img.shields.io/badge/emrebagdadioglu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
 [![Mail Badge](	https://img.shields.io/badge/bagdadiemre@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
 </div>
   
