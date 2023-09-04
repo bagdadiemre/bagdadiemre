@@ -2,10 +2,12 @@
 <h3 align="center">Full Stack Developer - I'm currently learning Mobile Development.</h3>
 
 <div align="center">
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
-[![Mail Badge](https://img.shields.io/badge/bagdadiemre@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
-</div>
+  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saltukozelgul/)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMifPLEtxztl5zZaLau1jIQ)
+[![Mail Badge](https://img.shields.io/badge/saltukozelgul@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:saltukozelgul@gmail.com)](mailto:saltukozelgul@gmail.com)
 
+</div>
 
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagdadiemre&show_icons=true&theme=dark&locale=en&layout=compact" alt="bagdadiemre" /></p>
