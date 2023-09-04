@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
+[![](https://img.shields.io/badge/emrebagdadioglu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrebagdadioglu/)
 [![Mail Badge](https://img.shields.io/badge/bagdadiemre@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bagdadiemre@gmail.com)](mailto:bagdadiemre@gmail.com)
 
 </div>
