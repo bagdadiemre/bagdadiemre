@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Emre
 - 📫 How to reach me: bagdadiemre@gmail.com
 
-<h2 align="center">Find me on:</h2>
-<p align="center">
+<h2 align="left">Find me on:</h2>
+<p align="left">
   <a href="https://www.linkedin.com/in/emrebagdadioglu">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
+<table align="center">
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="#">
@@ -22,7 +23,6 @@
   </a>
 </p>
 
-<table align="center">
 <tr>
   <td>
 <h3 align="center">Backend</h3>
