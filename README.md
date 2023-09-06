@@ -1,11 +1,5 @@
 ### Hi there 👋 I'm Emre | Frontend & Android 
-- 📫 How to reach me: bagdadiemre@gmail.com
-- <a href="https://www.linkedin.com/in/emrebagdadioglu">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-
-
+- 📫 How to reach me: bagdadiemre@gmail.com - linkedin.com/in/emrebagdadioglu
 
 <p align="center">
   <a href="#">
@@ -25,14 +19,8 @@
   </a>
 </p>
 
-
-  
-</p>
-
 <div align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagdadiemre&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
-
 </div>
 
 
