@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Emre | Frontend & Android 
-- 📫 How to reach me: bagdadiemre@gmail.com - linkedin.com/in/emrebagdadioglu
+- 📫 How to reach me: bagdadiemre@gmail.com - <a href="https://www.linkedin.com/in/emrebagdadioglu/">emrebagdadioglu</a>
 
 <p align="center">
   <a href="#">
