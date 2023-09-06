@@ -13,15 +13,15 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js,react,materialui,html,css" />
   </a>
-  <span>|</span>
+  <span>_</span>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" />
   </a>
-  <span>|</span>
+  <span>_</span>
    <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,mongodb,nodejs" />
   </a>
-<span>|</span>
+<span>_</span>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=electron" />
   </a>
