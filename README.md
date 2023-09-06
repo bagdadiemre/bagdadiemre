@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Emre | Frontend & Android 
 - 📫 How to reach me: bagdadiemre@gmail.com
-
-<h2 align="left">Find me on:</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/emrebagdadioglu">
+- <a href="https://www.linkedin.com/in/emrebagdadioglu">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+
+
 
 
 <p align="center">
