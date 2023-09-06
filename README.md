@@ -9,6 +9,8 @@
 </p>
 
 <table align="center">
+  <tr>
+  <td>
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="#">
@@ -23,8 +25,7 @@
   </a>
 </p>
 
-<tr>
-  <td>
+
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="#">
