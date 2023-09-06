@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Emre
+### Hi there 👋 I'm Emre | Frontend & Android 
 - 📫 How to reach me: bagdadiemre@gmail.com
 
 <h2 align="left">Find me on:</h2>
