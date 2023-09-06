@@ -43,9 +43,7 @@
   <td>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serveta&theme=dark&show_icons=true)
-<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serveta&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serveta&layout=compact&theme=dark)](https://github.com/bagdadiemre/github-readme-stats)   
 
 </div>
 </td>
