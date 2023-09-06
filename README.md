@@ -7,7 +7,7 @@
   </a>
   <img src="https://github.com/bagdadiemre/bagdadiemre/blob/main/divider.png" />
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter" />
   </a>
     <img src="https://github.com/bagdadiemre/bagdadiemre/blob/main/divider.png" />
    <a href="#">
