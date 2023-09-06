@@ -9,19 +9,19 @@
 </p>
 
 
-<h3 align="center">Frontend</h3>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js,react,materialui,html,css" />
   </a>
-
+  <span>|</span>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" />
   </a>
+  <span>|</span>
    <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,mongodb,nodejs" />
   </a>
-
+<span>|</span>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=electron" />
   </a>
