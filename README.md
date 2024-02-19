@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Emre | Frontend & Android 
+### Hi there 👋 I'm Emre
 - 📫 How to reach me: bagdadiogluemre@gmail.com | <a href="https://www.linkedin.com/in/emrebagdadioglu/">linkedin/emrebagdadioglu </a>
 
 <p align="center">
